@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<project name = "Hello World Project" default = "info">
+   <target name = "info" depends = "p1">
+      <echo>Hello World - Welcome to Apache Ant!</echo>
+   </target>
+   <target name = "p1">
+      <echo>Hello World - This is Dependent p1</echo>
+   </target>
+</project>
