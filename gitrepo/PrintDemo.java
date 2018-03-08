@@ -1,8 +1,9 @@
 package gitbuildtest;
 
+
 public class PrintDeom {
 	public static void main(String[] args){
 		//todo Auto-generated method stub
-	System.out.println("this is a jenkind build demo ");
+	System.out.println("This is a jenkind build demo ");
 	}
 }
